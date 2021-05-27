@@ -1,0 +1,17 @@
+1. vi avengers.txt
+paste using 'p'
+2. esc + shift + :wq
+3. wc -w avengers.txt
+4. use 'i' to insert into file
+enter 'word count 98'
+5. shift + :0, $ s/the/THE/g
+6.To paste: p 
+To copy: yy
+7. To delete a line : go to command mode and press 'dd'
+8. To undo : u
+10.save and exit : esc+shift+ :wq
+11. find the no of lines : wc -l
+12. use 'i' to insert into file
+enter 'line count 5'
+13. shift + :0, $ s/good luck/ /g
+14. esc + shift + :wq
